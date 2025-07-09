@@ -1,6 +1,6 @@
 # E-Commerce
 
-# Website
+
 # HomePage
 <img width="1920" height="893" alt="Image" src="https://github.com/user-attachments/assets/d3678ed0-5350-4186-bd1f-04b6c2981837" />
 <img width="1920" height="1031" alt="Image" src="https://github.com/user-attachments/assets/cec4eaf5-3e77-4db3-a685-472d6f95c69f" />
